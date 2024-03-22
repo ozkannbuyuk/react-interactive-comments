@@ -2,6 +2,10 @@
    React - Interactive Comments
 </h1>
 
+<h2>
+📷 Screenshots
+</h2>
+
 <p align="center">
   <img src="https://github.com/ozkannbuyuk/react-interactive-comments/assets/111967202/b94fa8c6-2583-42a6-b413-282d3c85f28e" width="700" />
 </p>
